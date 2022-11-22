@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d89a5637c1f594f48a0ad740c9e2dc45, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: 
+  cardName: Psychic shield
+  id: 1
+  description: Generates a small shield purely from the will of the user
+  color: {r: 0.09811318, g: 0.23673135, b: 1, a: 1}
+  visual: {fileID: 21300000, guid: 0f0909662a80d5c44989bc0627e129d0, type: 3}
+  cost: 4
+  areaTypePattern: 1
+  effectTypePattern: 3
+  playerRange: 5
+  effectRange: 0
+  targetEntity: 1
+  areablockByEntity: 0
+  effectblockByEntity: 0
+  activateClip: {fileID: 0}
+  cannotClip: {fileID: 8300000, guid: 80904b649c043ee44af1f77e479b858e, type: 3}
+  userParticle: {fileID: 1394620298, guid: 31edd4f93146d914fa9aeed6dfd14630, type: 3}
+  targetParticle: {fileID: 0}
+  isActivated: 0
+  effects: []
+  shieldAmount: 3

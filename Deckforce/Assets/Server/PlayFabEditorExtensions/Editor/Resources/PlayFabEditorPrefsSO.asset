@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
+  m_Name: PlayFabEditorPrefsSO
+  m_EditorClassIdentifier: 
+  DevAccountEmail: malo.de-dinechin@epitech.eu
+  DevAccountToken: hn58d8znzyja7isrig3sq6oa1m786srb9o3m9qhh798hory3tcgmwajct15w3ga1ggzjffpeqks68t1kzu3hed5p1aw8i9dw738xpqd3rz6s79skfk59u7gz8a6jdg9pyfzpn3zd37om5eywhasx8uku4tmfxqzdnbuxjixf91j46f5ojtgptetga93yx6mem9kkx75h
+  SelectedStudio: Brain Surge
+  SdkPath: Assets/Server/PlayFabSDK
+  EdExPath: 
+  LocalCloudScriptPath: 
+  PanelIsShown: 0
+  curMainMenuIdx: 1
+  curSubMenuIdx: 0

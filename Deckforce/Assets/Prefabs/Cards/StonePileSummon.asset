@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f14b96cbfd49694680126248caf11eb, type: 3}
+  m_Name: StonePileSummon
+  m_EditorClassIdentifier: 
+  cardName: Stone Pile Summon
+  id: 4
+  description: Creates a small pile of stone on an empty tile. The pile can be used
+    as cover or to summon stronger monsters
+  color: {r: 0.15640283, g: 1, b: 0, a: 1}
+  visual: {fileID: 21300000, guid: 0b893ac8d9747e740a5623a8c10f2544, type: 3}
+  cost: 3
+  areaTypePattern: 1
+  effectTypePattern: 3
+  playerRange: 3
+  effectRange: 1
+  targetEntity: 0
+  areablockByEntity: 0
+  effectblockByEntity: 0
+  activateClip: {fileID: 8300000, guid: d15441f307a9edc4597ecd8da0fcc481, type: 3}
+  cannotClip: {fileID: 8300000, guid: 80904b649c043ee44af1f77e479b858e, type: 3}
+  userParticle: {fileID: 0}
+  targetParticle: {fileID: 4681951924221898211, guid: 9ed446dd669f776438164f38ed2fae4c, type: 3}
+  isActivated: 0
+  effects: []
+  summoningEntity: {fileID: 1576012474619577924, guid: b96d511cda917094bbba6f100aae3e9c, type: 3}
